@@ -6,7 +6,16 @@
 module.exports = {
   content: ['./src/**/*.{js,ts,jsx,tsx}'],
   theme: {
-    extend: {}
+    extend: {
+      colors: {
+        'rocket-button': '#FF0000',
+        'rocket-main-background': '#C4C4C4',
+        'rocket-background': '#E5E5E5',
+        'rocket-text': '#000',
+        'rocket-footer': '#000',
+        'rocket-text-description': '#9c9696'
+      }
+    }
   },
-  plugins: []
+  plugins: [require('@tailwindcss/typography')]
 }
