@@ -1,66 +1,26 @@
-# React Tailwindcss Boilerplate build with Vite
+# Challenge: RocketShoes :computer:
 
-This is a [ReactJS](https://reactjs.org) + [Vite](https://vitejs.dev) boilerplate to be used with [Tailwindcss](https://tailwindcss.com).
+## On this challenge i will develop a tiny landing page for an e-commerce shoes shop :bow:
 
-## What is inside?
+### Preview :thought_balloon: :
 
-This project uses many tools like:
+- <img src="https://efficient-sloth-d85.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F145fca7f-769e-4eed-88ea-ae37811c14ad%2FRocketShoes.png?table=block&id=50b1acae-d172-4a55-aaa2-e6d7ae091bb6&spaceId=08f749ff-d06d-49a8-a488-9846e081b224&width=2000&userId=&cache=v2" alt="" />
 
-- [ReactJS](https://reactjs.org)
-- [Vite](https://vitejs.dev)
-- [TypeScript](https://www.typescriptlang.org)
-- [Jest](https://jestjs.io)
-- [Testing Library](https://testing-library.com)
-- [Tailwindcss](https://tailwindcss.com)
-- [Eslint](https://eslint.org)
-- [Prettier](https://prettier.io)
+## Technologies :crystal_ball:
 
-## Getting Started
+- Vite
+- React
+- Typescript
+- ESLINT
+- PostCSS
+- Prettier
+- TaiwindCSS
+  - HeadlessUI
+  - Typography Plugin
+- Deploy on Vercel, link <a target="_BLANK" href="https://my-rocket-shoes.vercel.app/">here</a>
 
-### Install
+## How to run? :flashlight:
 
-Create the project.
+- `yarn` + `yarn dev`
 
-```bash
-npx degit joaopaulomoraes/reactjs-vite-tailwindcss-boilerplate my-app
-```
-
-Access the project directory.
-
-```bash
-cd my-app
-```
-
-Install dependencies.
-
-```bash
-npm install
-```
-
-Serve with hot reload at http://localhost:3000.
-
-```bash
-npm run dev
-```
-
-### Lint
-
-```bash
-npm run lint
-```
-
-### Build
-
-```bash
-npm run build
-```
-
-### Test
-
-```bash
-npm run test
-```
-
-## License
-
-This project is licensed under the MIT License.
+- `npm i` + `npm run dev`
