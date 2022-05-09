@@ -1,6 +1,6 @@
 # Challenge: RocketShoes :computer:
 
-## On this challenge i will develop a tiny landing page for an e-commerce shoes shop :bow:
+## On this challenge i've developed a tiny landing page for an e-commerce shoes shop :bow:
 
 ### Preview :thought_balloon: :
 
