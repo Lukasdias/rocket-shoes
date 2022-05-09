@@ -7,6 +7,10 @@ module.exports = {
   content: ['./src/**/*.{js,ts,jsx,tsx}'],
   theme: {
     extend: {
+      screens: {
+        '3xl': '1800px',
+        '4xl': '1920px'
+      },
       colors: {
         'rocket-button': '#FF0000',
         'rocket-main-background': '#C4C4C4',
@@ -15,6 +19,10 @@ module.exports = {
         'rocket-footer': '#000',
         'rocket-text-description': '#9c9696'
       }
+    },
+    fontFamily: {
+      sans: ['Roboto, sans-serif'],
+      serif: ['Roboto, serif']
     }
   },
   plugins: [require('@tailwindcss/typography')]
